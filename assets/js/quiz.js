@@ -72,7 +72,7 @@ answers.addEventListener("click", function(event) {
             cScore++;
         }else {
             response.textContent = 'Unfortunately you got that question wrong';
-            tCounter -=5;
+            tCounter -=10;
         }
         q++;
         nextQuestion();
