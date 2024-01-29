@@ -38,7 +38,7 @@ function init(){
 }
 
 start.addEventListener("click", function() {
-    tCounter = 60;
+    tCounter = 300;
     document.getElementById("start-screen").style.display = "none";
     startQuiz();
     startTimer();
