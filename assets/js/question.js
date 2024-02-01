@@ -151,6 +151,7 @@ const question = [
     'Iron Fist',
     'Hulk',
     'Iron Man',
+    'Captain America',
     'Iron Man'
     ],
     [
